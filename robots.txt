@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ouranedo.github.io/sitemap.html.gz
+Sitemap: https://ouranedo.github.io/app/sitemap.html.gz
+Sitemap: https://ouranedo.github.io/assets/sitemap.html.gz
+Sitemap: https://ouranedo.github.io/css/sitemap.html.gz
+Sitemap: https://ouranedo.github.io/includes/sitemap.html.gz
+Sitemap: https://ouranedo.github.io/item/sitemap.html.gz
+Sitemap: https://ouranedo.github.io/src/sitemap.html.gz
